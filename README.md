@@ -12,4 +12,4 @@ Desde o título até todo o roteiro foi extraido de prompts acertivos no chatGPT
 O vídeo foi gerado pelas ferramentas de junção do D-ID.
 
 ## 🚀 Resultados
-Você pode acessar o video <a href ="">AQUI<a>
+Você pode acessar o video <a href ="output/datacast.mp4">AQUI<a>
